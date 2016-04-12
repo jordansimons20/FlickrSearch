@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FlickrSearch</string>
+    <string name="action_settings">Settings</string>
+    <string name="queryeditText" />
+    <string name="queryeditTextHint">Enter Flickr query search here</string>
+    <string name="tageditText" />
+    <string name="tagPrompt">Tag your query</string>
+    <string name="saveDescription">Touch this button to save your tagged search</string>
+    <string name="taggedSearches">Tagged Searches</string>
+    <string name="missingMessage">Enter both a Flickr search query and a tag</string>
+    <string name= "OK">OK</string>
+    <string name="shareEditDeleteTitle">Share, Edit or Delete the search tagged as \"%s\"</string>
+    <string-array name="dialog_items">
+        <item>Share</item>
+        <item>Edit</item>
+        <item>Delete</item>
+        <item>Color</item>
+    </string-array>
+    <string name="cancel">Cancel</string>
+    <string name="confirmMessage">Are you sure you want to delete the search \"%s\"?</string>
+    <string name="delete">Delete</string>
+    <string name="searchURL">https://www.flickr.com/search/?text=</string>
+    <string name="shareSubject">Flickr search that might interest you</string>
+    <string name="shareMessage">Check out the results of this Flickr search: %s</string>
+    <string name="shareSearch">Share Search to:</string>
+</resources>
